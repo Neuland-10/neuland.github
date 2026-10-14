@@ -1,0 +1,4 @@
+device_id,year,application_line,site_or_partner,status,owner,financing_route,expected_go_live,notes
+ML-001,2027,LAGA-Reallabor,LAGA Wittenberge,planned,[OWNER],LAGA/Kommunal,[DATUM],Showcase
+ML-002,2027,Ausbildung,ABS Prignitz,planned,[OWNER],Bildung/Arbeitsförderung,[DATUM],Lehrgarten
+ML-003,2027,Generationen-Gärten,Lafim Pilot,conditional,[OWNER],Träger/Förderung,[DATUM],Nur nach Betreiberfreigabe
